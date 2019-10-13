@@ -10,3 +10,4 @@ Import and export records as text
 Import and export tables from/to CSV files
 Import and export databases from/to SQL dump files
 Issue SQL queries and inspect the results
+It is made using python programming.
